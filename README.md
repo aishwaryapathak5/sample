@@ -3,4 +3,4 @@
 ~~SAMPLE~~
 
 http://www.example.com
-what_is_this
+what*is*this
