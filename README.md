@@ -1,2 +1,2 @@
 # sample
-##My first repository on GitHub *This text will be italic*
+##*My first repository on GitHub*
