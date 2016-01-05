@@ -1,3 +1,5 @@
 # sample
 *My first repository on GitHub*
-~~Trying~~
+~~SAMPLE~~
+
+http://www.example.com
